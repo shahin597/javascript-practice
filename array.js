@@ -1,0 +1,10 @@
+var friendsAge = [11, 13, 17];
+var friendsName = ['john', 'kabir', 'sheikh'];
+var oddsNumber = [1, 3, 5, 7, 9];
+var vowels = ['a', 'e', 'i', 'o', 'u'];
+// console.log(friendsAge);
+// console.log(vowels);
+// console.log(oddsNumber);
+// console.log(friendsName.length);
+var oddNumberCount = oddsNumber.length;
+console.log(oddNumberCount);
