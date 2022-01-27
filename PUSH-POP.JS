@@ -13,6 +13,7 @@ console.log(friendsAge);
 var friendsAge = [19, 14, 44];
 friendsAge.pop(44);
 friendsAge.pop();
+//added with var_name
 var addedAge = friendsAge.push(44, 50, 60);
 console.log(friendsAge);
 console.log(addedAge);

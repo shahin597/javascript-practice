@@ -1,0 +1,14 @@
+//console.log(5 > 6);
+//console.log(5 < 6);
+//console.log(5 == 6);
+//console.log(6 == 6);
+//console.log(5 != 6);
+var bataPrice = 500;
+var lottoPrice = 600;
+//console.log(bataPrice > lottoPrice);
+//console.log(bataPrice > lottoPrice);
+//console.log(bataPrice < lottoPrice);
+//console.log(bataPrice == lottoPrice);
+//console.log(bataPrice != lottoPrice);
+console.log(studyGood && goodJob);
+console.log(engineer || doctor);
